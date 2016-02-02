@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\MY\Documents\GitHub\OurClass</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>01/08/2016 23:00:25</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>01/08/2016 23:00:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>01/07/2016 00:43:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/MyClassRoom.dll">
+      <publishTime>01/08/2016 16:58:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/07/2016 00:43:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/07/2016 00:43:41</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/07/2016 00:43:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>01/07/2016 00:43:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>01/07/2016 00:43:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>01/07/2016 00:43:40</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/college-font.css">
+      <publishTime>01/07/2016 01:33:28</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fontawesome-4.4.0.min.css">
+      <publishTime>01/07/2016 01:33:29</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fonts/college.eot">
+      <publishTime>01/07/2016 02:44:17</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fonts/college.svg">
+      <publishTime>01/07/2016 02:44:17</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fonts/college.ttf">
+      <publishTime>01/07/2016 02:44:17</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fonts/college.woff">
+      <publishTime>01/07/2016 02:44:17</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fonts/fontawesome-webfont.eot">
+      <publishTime>01/07/2016 02:44:17</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fonts/fontawesome-webfont.svg">
+      <publishTime>01/07/2016 02:44:17</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fonts/fontawesome-webfont.ttf">
+      <publishTime>01/07/2016 02:44:17</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fonts/fontawesome-webfont.woff">
+      <publishTime>01/07/2016 02:44:17</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fonts/fontawesome-webfont.woff2">
+      <publishTime>01/07/2016 02:44:17</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/fonts/FontAwesome.otf">
+      <publishTime>01/07/2016 02:44:17</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/framework.css">
+      <publishTime>01/07/2016 01:33:29</publishTime>
+    </File>
+    <File Include="Content/user/css/styles/layout.css">
+      <publishTime>01/07/2016 01:33:29</publishTime>
+    </File>
+    <File Include="Content/user/images/demo/320x238.png">
+      <publishTime>01/08/2016 13:47:46</publishTime>
+    </File>
+    <File Include="Content/user/images/demo/60x60.png">
+      <publishTime>01/08/2016 13:47:46</publishTime>
+    </File>
+    <File Include="Content/user/images/demo/avatar.png">
+      <publishTime>01/08/2016 13:47:46</publishTime>
+    </File>
+    <File Include="Content/user/images/demo/backgrounds/01.png">
+      <publishTime>01/08/2016 13:48:33</publishTime>
+    </File>
+    <File Include="Content/user/images/demo/backgrounds/02.png">
+      <publishTime>01/08/2016 13:48:33</publishTime>
+    </File>
+    <File Include="Content/user/images/demo/gallery/01.png">
+      <publishTime>01/08/2016 13:48:49</publishTime>
+    </File>
+    <File Include="Content/user/images/demo/imgl.gif">
+      <publishTime>01/08/2016 13:47:46</publishTime>
+    </File>
+    <File Include="Content/user/images/demo/imgr.gif">
+      <publishTime>01/08/2016 13:47:46</publishTime>
+    </File>
+    <File Include="Content/user/js/jquery-ui.min.js">
+      <publishTime>01/07/2016 01:34:07</publishTime>
+    </File>
+    <File Include="Content/user/js/jquery.backtotop.js">
+      <publishTime>01/07/2016 01:34:07</publishTime>
+    </File>
+    <File Include="Content/user/js/jquery.min.js">
+      <publishTime>01/07/2016 01:34:07</publishTime>
+    </File>
+    <File Include="Content/user/js/jquery.mobilemenu.js">
+      <publishTime>01/07/2016 01:34:07</publishTime>
+    </File>
+    <File Include="Content/user/js/jquery.placeholder.min.js">
+      <publishTime>01/07/2016 01:34:07</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/07/2016 00:43:38</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/07/2016 00:43:43</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>01/08/2016 23:00:05</publishTime>
+    </File>
+    <File Include="Views/Home/basicGrid.cshtml">
+      <publishTime>01/08/2016 15:06:48</publishTime>
+    </File>
+    <File Include="Views/Home/fullWidth.cshtml">
+      <publishTime>01/08/2016 15:26:38</publishTime>
+    </File>
+    <File Include="Views/Home/gallery.cshtml">
+      <publishTime>01/08/2016 14:42:58</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>01/08/2016 14:08:27</publishTime>
+    </File>
+    <File Include="Views/Home/sideBarLeft.cshtml">
+      <publishTime>01/08/2016 15:26:43</publishTime>
+    </File>
+    <File Include="Views/Shared/TemplateUser.cshtml">
+      <publishTime>01/08/2016 15:06:30</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>01/07/2016 00:43:39</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/09/2016 00:15:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
